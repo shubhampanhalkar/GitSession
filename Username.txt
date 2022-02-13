@@ -1,1 +1,2 @@
 This file takes username
+It also takes password
